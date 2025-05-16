@@ -1,1 +1,1 @@
-# WAFFLE: Workload Assignment for Flexible Logistics using Layered Execution  
+# WAFFLE:  Work Allocation for Fast and Flexible Logistic Execution
